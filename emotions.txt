@@ -1,0 +1,4 @@
+happiness
+sadness
+anger
+tiredness
